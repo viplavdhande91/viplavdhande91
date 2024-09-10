@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viplavdhande91
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Software Developlement Engineer,Machine Learning Profile
+- 💞️ I’m Full Stack Developer who works on .NET ,Angular and Azure,Azure Devops Tech Stack
 - 📫 How to reach me : Kindly reach me on viplavdhande91@gmail.com;I'd be happy to reply.
 
 <!---
